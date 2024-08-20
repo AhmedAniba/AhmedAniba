@@ -1,3 +1,5 @@
+<img src='https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQxNTg2ODYsIm5iZiI6MTcyNDE1ODM4NiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIwVDEyNTMwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1YmIxYTNhZGJhZTRjMTc5YmMwYWIwYWZiNzFmM2UxM2UzZjFiODQ3NmQ4NGE5ZTI2ZDAzNzBjMzJlZjM1OTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.d0E9Xfu2MoAw3UQARmPd9poQ7Gf9Iy282-f5OQWJnDM'>
+
 👋 Hi, I’m @AhmedAniba  
 🔌 Passionate Electrical & Renewable Energy Engineer | Full-Stack Developer  
 🎓 Recent graduate from CentraleSupélec, Class of 2024
@@ -27,7 +29,7 @@
 
 📫 **How to reach me:**  
 <p align="left">
-<a href="https://linkedin.com/in/ahmed aniba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed aniba" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed aniba" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="ahmed aniba" height="30" width="40" /></a>
 </p>
 
 ⚡ **Fun fact:**  
