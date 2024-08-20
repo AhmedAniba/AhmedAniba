@@ -3,7 +3,7 @@
 </div>
 👋 Hi, I’m @AhmedAniba  
 🔌 Passionate Electrical & Renewable Energy Engineer | Full-Stack Developer  
-🎓 Recent graduate from CentraleSupélec, Class of 2024
+🎓 Recent graduate from CentraleSupélec, Class of 2024 & Mohammadia School of Engineers, Class of 2023
 
 ---
 
