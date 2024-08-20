@@ -2,7 +2,9 @@
 <img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' height='250'>
 </div>
 👋 Hi, I’m @AhmedAniba  
+
 🔌 Passionate Electrical & Renewable Energy Engineer | Full-Stack Developer  
+
 🎓 Recent graduate from CentraleSupélec, Class of 2024 & Mohammadia School of Engineers, Class of 2023
 
 ---
